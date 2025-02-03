@@ -1,8 +1,8 @@
 #include <WiFi.h>
 #include <FirebaseESP32.h>
 
-#define WIFI_SSID "Oalis" // nome da rede wifi
-#define WIFI_PASSWORD "oalis636807" // senha da rede wifi
+#define WIFI_SSID "" // nome da rede wifi
+#define WIFI_PASSWORD "" // senha da rede wifi
 
 #define API_KEY "" // Chave de API do firebase
 #define USER_EMAIL "" // email do usuário cadastrado
